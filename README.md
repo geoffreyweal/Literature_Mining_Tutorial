@@ -34,10 +34,9 @@ Click on each notebook below that you want to open in Google Colab. The notebook
 
 Each time you open a Google Colab Notebook, make sure you save a copy of the notebook to your Google Drive. Instructions for how to do this will be given in the preamble of each notebook.
 
-1. [Gathering Papers on Mass](https://github.com/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_1_Gathering_Literature.ipynb)
-2. [Extracting Text from PDF using Python](https://github.com/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_2_Extracting.ipynb)
-3. [Highlighting Keywords in PDFs using Python](https://github.com/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_3_Highlighting.ipynb)
-4. [Putting It All Together](https://github.com/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_4_Putting_It_All_Together.ipynb)
-
+1. [Gathering Papers on Mass](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_1_Gathering_Literature.ipynb)
+2. [Extracting Text from PDF using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_2_Extracting.ipynb)
+3. [Highlighting Keywords in PDFs using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_3_Highlighting.ipynb)
+4. [Putting It All Together](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_4_Putting_It_All_Together.ipynb)
 
 
