@@ -32,3 +32,7 @@ We will be running this tutorial in Google Colab, using Python to run commands. 
 
 Click on each notebook below that you want to open in Google Colab. The notebooks are designed to be consecutively followed. 
 
+Each time you open a Google Colab Notebook, make sure you save a copy of the notebook to your Google Drive. Instructions for how to do this will be given in the preamble of each notebook.
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
