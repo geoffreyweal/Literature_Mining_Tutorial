@@ -1,6 +1,6 @@
 # Literature Mining Tutorial for the Centre of Integrated Data Materials Science (iDM)
 
-Authors: Dr. Geoffrey Weal
+Author: Dr. Geoffrey Weal
 
 Victoria University of Wellington, Wellington, New Zealand; The MacDiarmid Institute for Advanced Materials and Nanotechnology, Wellington, New Zealand; Centre of Integrated Data Materials Science, Yoshida-Ushinomiya-cho, Sakyo-ku, Kyoto.
 
