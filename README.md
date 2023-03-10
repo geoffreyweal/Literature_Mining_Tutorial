@@ -1,18 +1,33 @@
-# The Electronic Crystal Calculation Prep Program
+# Literature Mining Tutorial for the Centre of Integrated Data Materials Science (iDM)
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/geoffreyweal/ECCP)](https://github.com/geoffreyweal/ECCP)
-[![Licence](https://img.shields.io/github/license/geoffreyweal/ECCP)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/geoffreyweal/ECCP)](https://lgtm.com/projects/g/geoffreyweal/ECCP/context:python)
-
-Authors: Dr. Geoffrey Weal<sup>\*</sup>, Dr. Josh Sutton<sup>\*</sup>, Dr. Chayanit Wechwithayakhlung<sup>\*\*</sup>, Dr. Daniel Packwood<sup>\*\*</sup>, Dr. Paul Hume<sup>\*</sup>, Prof. Justin Hodgkiss<sup>\*</sup>
+Authors: Dr. Geoffrey Weal<sup>\*</sup>
 
 <sup>\*</sup> Victoria University of Wellington, Wellington, New Zealand; The MacDiarmid Institute for Advanced Materials and Nanotechnology, Wellington, New Zealand. 
 
-<sup>\*\*</sup> Kyoto University, Kyoto, Japan; Institute for Integrated Cell-Material Sciences, Kyoto, Japan.
+## What is this Literature Mining Tutorial About
 
-Group pages: https://people.wgtn.ac.nz/paul.hume/grants, https://www.packwood.icems.kyoto-u.ac.jp/, https://people.wgtn.ac.nz/justin.hodgkiss/grants
+This tutorial will show you how to mine data from scientific papers using Python. We will use scripts for gathering papers, extracting and analysing text, and for highlighting keywords. 
 
-## What is the Electronic Crystal Calculation Prep program
+This tutorial does not require any programming knowledge prior to the tutorial. 
+
+## What is the Centre of Integrated Data Materials Science (iDM)
+
+The Centre of Integrated Data Materials Science (iDM) is a new relationship between the Institute for Integrated Cell-Material Sciences (iCeMS) at Kyoto University and the MacDiarmid Institute, involving several universities across New Zealand. iDM aims to deepen the paradigm of data-driven materials science while aiming to establish a next-generation materials development process. See the following websites for more information:
+
+iDM: https://il.icems.kyoto-u.ac.jp/idm/
+iCeMS: https://www.icems.kyoto-u.ac.jp/en/
+MacDiarmid Institute: https://www.macdiarmid.ac.nz/
+
+
+
+
+
+
+
+T.imewill beprovidedsothatyoucantestthesescriptson topicsrelatedto yourownresearchT.hisworkshopwill assumenoprogramming backgrounadndquestionfsromtheaudiencewill beencouraged.
+
+
+
 
 The Electronic Crystal Calculation Prep program is designed to provide information about the molecules in a OPV crystal structure, as well as dimer between individual molecules. While this program was originally designed for OPV crystal, it can be used for a crystal made of any chemical system. 
 
