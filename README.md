@@ -13,16 +13,6 @@ This tutorial will show you how to mine data from scientific papers using Python
 
 This tutorial does not require any programming knowledge prior to the tutorial. 
 
-
-## What is the Centre of Integrated Data Materials Science (iDM)
-
-The Centre of Integrated Data Materials Science (iDM) is a new relationship between the Institute for Integrated Cell-Material Sciences (iCeMS) at Kyoto University and the MacDiarmid Institute, involving several universities across New Zealand. The iDM aims to deepen the paradigm of data-driven materials science while aiming to establish a next-generation materials development process. See the following websites for more information:
-
-* iDM: https://il.icems.kyoto-u.ac.jp/idm/
-* iCeMS: https://www.icems.kyoto-u.ac.jp/en/
-* MacDiarmid Institute: https://www.macdiarmid.ac.nz/
-
-
 ## Google Colab and Python
 
 Google Colab is a online tool that allows you to create a notebook that allows you to write Python, Julia, and R code, along with notes about what the code does. 
@@ -42,5 +32,14 @@ Each time you open a Google Colab Notebook, make sure you save a copy of the not
 2. [Extracting Text from PDF using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_2_Extracting.ipynb)
 3. [Highlighting Keywords in PDFs using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_3_Highlighting.ipynb)
 4. [Putting It All Together](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_4_Putting_It_All_Together.ipynb)
+
+
+## What is the Centre of Integrated Data Materials Science (iDM)
+
+The Centre of Integrated Data Materials Science (iDM) is a new relationship between the Institute for Integrated Cell-Material Sciences (iCeMS) at Kyoto University and the MacDiarmid Institute, involving several universities across New Zealand. The iDM aims to deepen the paradigm of data-driven materials science while aiming to establish a next-generation materials development process. See the following websites for more information:
+
+* iDM: https://il.icems.kyoto-u.ac.jp/idm/
+* iCeMS: https://www.icems.kyoto-u.ac.jp/en/
+* MacDiarmid Institute: https://www.macdiarmid.ac.nz/
 
 
