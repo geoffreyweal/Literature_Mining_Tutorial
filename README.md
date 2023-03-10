@@ -13,6 +13,7 @@ This tutorial will show you how to mine data from scientific papers using Python
 
 This tutorial does not require any programming knowledge prior to the tutorial. 
 
+
 ## Google Colab and Python
 
 Google Colab is a online tool that allows you to create a notebook that allows you to write Python, Julia, and R code, along with notes about what the code does. 
