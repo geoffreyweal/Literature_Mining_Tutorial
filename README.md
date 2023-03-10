@@ -40,7 +40,7 @@ Each time you open a Google Colab Notebook, make sure you save a copy of the not
 The Centre of Integrated Data Materials Science (iDM) is a new relationship between the Institute for Integrated Cell-Material Sciences (iCeMS) at Kyoto University and the MacDiarmid Institute, involving several universities across New Zealand. The iDM aims to deepen the paradigm of data-driven materials science while aiming to establish a next-generation materials development process. See the following websites for more information:
 
 * iDM: https://il.icems.kyoto-u.ac.jp/idm
-* iCeMS: https://www.icems.kyoto-u.ac.jp/en
+* iCeMS: https://www.icems.kyoto-u.ac.jp
 * MacDiarmid Institute: https://www.macdiarmid.ac.nz
 
 
