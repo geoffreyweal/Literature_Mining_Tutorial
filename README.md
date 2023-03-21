@@ -23,7 +23,7 @@ We will be running this tutorial in Google Colab, using Python to run commands. 
 
 ## Instructions to Begin this Tutorial
 
-Click on each notebook below that you want to open in Google Colab. The notebooks are designed to be consecutively followed. 
+Click on each notebook below that you want to open in Google Colab. These notebooks are designed to be consecutively followed. 
 
 **RECOMMENDED**: Right click each link as you go, one at a time, and load each link as a new tab in your browser.
 
