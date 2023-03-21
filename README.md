@@ -4,7 +4,7 @@ Author: Dr. Geoffrey Weal
 
 * Victoria University of Wellington, Wellington, New Zealand
 * The MacDiarmid Institute for Advanced Materials and Nanotechnology, Wellington, New Zealand
-* Centre of Integrated Data Materials Science, Yoshida-Ushinomiya-cho, Sakyo-ku, Kyoto
+* Centre of Integrated Data Materials Science, Yoshida-Ushinomiya-cho, Sakyo-ku, Kyoto, Japan
 
 
 ## What is this Literature Mining Tutorial About
@@ -30,6 +30,7 @@ Each time you open a Google Colab Notebook, make sure you save a copy of the not
 **RECOMMENDED**: Right click each link as you go, one at a time, and load each link as a new tab in your browser.
 
 1. [Gathering Papers on Mass](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_1_Gathering_Literature.ipynb)
+	* [Gathering Papers on Mass with Scopus](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_1Extra_Gathering_Literature_with_Scopus.ipynb)
 2. [Extracting Text from PDF using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_2_Extracting.ipynb)
 3. [Highlighting Keywords in PDFs using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_3_Highlighting.ipynb)
 4. [Putting It All Together](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_4_Putting_It_All_Together.ipynb)
