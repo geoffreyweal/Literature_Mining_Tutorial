@@ -4,7 +4,7 @@ Author: Dr. Geoffrey Weal<sup>1,2,3</sup>
 
 Advisers: Dr. Paul Hume<sup>1,2,3</sup>, Dr. Daniel Packwood<sup>3,4</sup>, Prof. Justin Hodgkiss<sup>1,2,3</sup>
 
-Editors: Dr. Daniel Packwood<sup>3,4</sup>, Dr. Chayanit (First) Wechwithayakhlung<sup>3,4</sup>, Olivia Sato<sup>1,2</sup>, Caitlin Casey-Stevens<sup>1,2</sup>
+Editors: Dr. Daniel Packwood<sup>3,4</sup>, Dr. Chayanit (First) Wechwithayakhlung<sup>3,4</sup>, Olivia Sato<sup>1,2</sup>, Dr. Caitlin Casey-Stevens<sup>1,2</sup>
 
 1. Victoria University of Wellington, Wellington, New Zealand
 2. The MacDiarmid Institute for Advanced Materials and Nanotechnology, Wellington, New Zealand
