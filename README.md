@@ -37,7 +37,7 @@ Click on each notebook below that you want to open in Google Colab. These notebo
 3. [Highlighting Keywords in PDFs using Python](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_3_Highlighting.ipynb)
 4. [Putting It All Together](https://colab.research.google.com/github/geoffreyweal/Literature_Mining_Tutorial/blob/main/Notebooks/iDM_LMT_4_Putting_It_All_Together.ipynb)
 
-# Issues
+## Issues
 
 If you have any issues when you try running this tutorial on your own, feel free to get in touch at geoffrey.weal@vuw.ac.nz
 
